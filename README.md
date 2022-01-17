@@ -1,1 +1,1 @@
-# RISE-BCG-Mini-Project
+# RISE-BCG-Mini-Project (Python Basics)
