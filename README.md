@@ -1,1 +1,1 @@
-# RISE-BCG-Mini-Project-1
+# RISE-BCG-Mini-Project
